@@ -1,0 +1,5 @@
+site_name: OpenDID Documentation
+nav:
+  - index.md
+theme:
+  name: material
